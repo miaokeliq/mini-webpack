@@ -1,0 +1,28 @@
+{
+  "name": "mini-webpack",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "## Step by step:",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/miaokeliq/mini-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miaokeliq/mini-webpack/issues"
+  },
+  "homepage": "https://github.com/miaokeliq/mini-webpack#readme",
+  "dependencies": {
+    "@babel/parser": "^7.21.3",
+    "@babel/traverse": "^7.21.3"
+  }
+}
